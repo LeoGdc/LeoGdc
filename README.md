@@ -19,4 +19,4 @@
 
 
 
-<img alingn="center" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif" />
+<p align="center"><img alingn="center" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif" /></p>
