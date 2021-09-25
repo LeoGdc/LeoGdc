@@ -18,4 +18,4 @@
 
 
 
-![download](https://user-images.githubusercontent.com/88452429/134753570-f21d69ee-782a-4341-8852-cd8fc316607d.gif)
+![download](https://user-images.githubusercontent.com/88452429/134753570-f21d69ee-782a-4341-8852-cd8fc316607d.gif)alingn="center
