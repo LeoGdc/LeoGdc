@@ -19,4 +19,4 @@
 
 
 
-<p align:"center"> <img alingn="center" src="https://user-images.githubusercontent.com/88452429/134753771-1ccdacee-5582-4321-ac98-582474af38e5.gif"</p>
+<p align:"center"> <img alingn="center" src="https://user-images.githubusercontent.com/88452429/134753771-1ccdacee-5582-4321-ac98-582474af38e5.gif"/></p>
