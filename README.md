@@ -17,4 +17,5 @@
 <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
-![sera](https://user-images.githubusercontent.com/88452429/134753562-bffb8796-f4de-4ebf-839d-571821e2e539.gif)
+
+![download](https://user-images.githubusercontent.com/88452429/134753570-f21d69ee-782a-4341-8852-cd8fc316607d.gif)
