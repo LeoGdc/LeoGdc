@@ -19,5 +19,5 @@
 
 
 
-<p align="center"><img alingn="center" src=![demon](https://user-images.githubusercontent.com/88452429/138949514-a26e82fa-0f4d-4518-bb1e-e4ccc7878886.gif)/></p>
+<p align="center"><img alingn="center" src=![demon](https://user-images.githubusercontent.com/88452429/138949514-a26e82fa-0f4d-4518-bb1e-e4ccc7878886.gif)><img/></p>
 
