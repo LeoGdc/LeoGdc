@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- 🌱 I'm currently learning Java
+ 🌱 I'm currently learning Java, JavaScript, PhP, Node, React
  <br>
  📫 How to reach me: 
 
